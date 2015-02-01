@@ -76,6 +76,7 @@ namespace Platformer
 		
 				
 			}
+	
 			
 			foreach(Train t in enemies)//for each enemy in my collection
 			{
